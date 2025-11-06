@@ -1,0 +1,12 @@
+<div class="container">
+    <text class="title">
+        Store Data
+    </text>
+    <text>Latest Name: {{ name }}</text>
+    <text>{{ status }}</text>
+
+    <input type="button" class="input" @click="setData">Set Data</input>
+    <input type="button" class="input get" @click="getData">Get Data</input>
+    <input type="button" class="input delete" @click="deleteData">Delete Data</input>
+    <input type="button" class="input clear" @click="clearStorage">Clear Storage</input>
+</div>
