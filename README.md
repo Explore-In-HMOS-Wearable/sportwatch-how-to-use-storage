@@ -11,12 +11,14 @@ Simple storage usage in lite wearables.
 </p>
 
 # Use Cases
+
 set, update, read, delete, clear data in the storage.
 
-# Technology Stack
-**Languages**: JS  
+# Tech Stack
+
+**Languages**: JS
 **Frameworks**: HarmonyOS SDK 5.0.0(12)
-**Tools**: DevEco Studio 5.1.0  
+**Tools**: DevEco Studio 5.1.0
 **Libraries/Kits**:
 - @system.storage
 
@@ -45,5 +47,5 @@ entry\src\main\js
 
 # License
 
-**How To Use Storage** is distributed under the terms of the **MIT License**.  
-See the [LICENSE](LICENSE) file for more information.  
+**How To Use Storage** is distributed under the terms of the **MIT License**.
+See the [LICENSE](LICENSE) file for more information.

@@ -69,6 +69,6 @@ export const storeManager = {
     set: setValue,
     get: getValue,
     delete: deleteValue,
-    clear: clearStorage,
+    clear: clearStorage
 }
 
